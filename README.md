@@ -3,10 +3,6 @@
 <h3 align="center">Empowering Digital Innovation: The Sri Lankan Full Stack Developer</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khasir2002&label=Profile%20views&color=0e75b6&style=flat" alt="khasir2002" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khasir2002" alt="khasir2002" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/dinujayamanodya" target="blank"><img src="https://img.shields.io/twitter/follow/dinujayamanodya?logo=twitter&style=for-the-badge" alt="dinujayamanodya" /></a> </p>
 
 - 🔭 I’m currently working with **JavaScript,ReactJs,MEARN Stack**
@@ -44,4 +40,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khasir2002&show_icons=true&locale=en" alt="khasir2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khasir2002&" alt="khasir2002" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khasir2002&label=Profile%20views&color=0e75b6&style=flat" alt="khasir2002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khasir2002" alt="khasir2002" /></a> </p>
 
