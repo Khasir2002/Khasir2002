@@ -43,6 +43,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=khasir2002&show_icons=true&locale=en" alt="khasir2002" /></p>
 
+<p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=khasir2002&show_icons=true&locale=en&layout=compact" alt="khasir2002" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khasir2002&" alt="khasir2002" /></p>
 
 
