@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khasir2002&label=Profile%20views&color=0e75b6&style=flat" alt="khasir2002" /> </p>
 
-- 🔭 I’m currently working with **JavaScript,ReactJs,MEARN Stack**
+- 🔭 I’m currently working with **JavaScript,ReactJs,MERN Stack**
 
 - 🌱 I’m currently learning **about ReactJs ,NodeJs**
 
