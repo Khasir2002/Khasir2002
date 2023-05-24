@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Arduino Robotics**
 
-- 👨‍💻 All of my projects are available at [https://khasir2002.github.io/Desolisoft/](https://khasir2002.github.io/Desolisoft/)
+- 👨‍💻 All of my projects are available at [https://github.com/Khasir2002](https://github.com/Khasir2002)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
